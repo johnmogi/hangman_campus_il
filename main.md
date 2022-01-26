@@ -1,4 +1,3 @@
-# hangman_campus_il
 in this mini project I will develop a hangman game using python:
 
 https://courses.campus.gov.il/courses/course-v1:CS+GOV_CS_selfpy101+1_2022/courseware/9cc0f985c78949ce8dcb879c93bfa915/f6c6e3e0afbc4523b1c49fe34fc0ae0f/
@@ -45,26 +44,8 @@ I'm a multiline bunny!
 >>> ("This is the \
 ... same print line")
 This is the same print line
-
+למעבר למערכת
+מערכת "המשוב האוטומטי" עומדת לרשותכם. מומלץ מאוד להשתמש בה!
 
 
 https://s3.eu-west-1.amazonaws.com/data.cyber.org.il/virtual_courses/python/rolling_assignment/resources/hangman.txt
-
-האם גם אתם חושבים שהגיע הזמן להתחיל לשחק?
-בתרגיל זה תכתבו את הפעולה הבסיסית של שחקן במשחק: ניחוש אות באמצעות פעולת קלט פשוטה.
-
-כתבו קטע קוד שבו:
-
-הציגו לשחקן הודעה שמבקשת ממנו להקליד תו (את הניחוש שלו).
-קלטו את התו לתוך משתנה לבחירתכם (הניחו שהקלט תקין).
-הדפיסו את התו למסך.
-דוגמה להרצה ולפלט שמודפס:
-
-Guess a letter: a
-a
-הנחיות:
-
-הקפידו על פלט מדויק.
-ודאו ששם המשתנה שהגדרתם עומד בקונבנציות שנלמדו.
-
-https://courses.campus.gov.il/courses/course-v1:CS+GOV_CS_selfpy101+1_2022/courseware/bd600ee05b5b4dfca154045ee3dc2093/74e2d8eda8384b1ea0389ad8c7698102/
